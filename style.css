@@ -63,8 +63,8 @@ body {
     min-width: 512px;
     padding: 16px;
     border-radius: 4px;
-    background: linear-gradient(230deg, rgba(198, 244, 255, 0.2), rgba(255, 166, 243, 0.3));
-    border: 2px solid rgba(255, 255, 255, 1);
+    background: linear-gradient(43deg, rgba(6, 8, 19, 0.5) 0%, rgba(24, 9, 23, 0.5) 46%);
+    border: 2px solid rgba(6, 8, 19, 0.75);
 }
 
 .links {
